@@ -4,7 +4,7 @@ export const GLOBAL = {
   // Site metadata
   username: "maxexq",
   rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
+  shortDescription: "Keep learning. <Br /> Keep growing.",
   longDescription:
     "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
 
@@ -35,7 +35,7 @@ export const GLOBAL = {
     "All of my projects, including both frontend and full-stack applications.",
 
   // Profile image
-  profileImage: "michael-dam-unsplash.webp",
+  profileImage: "maxexq-profile.webp",
 
   // Menu items
   menu: {
