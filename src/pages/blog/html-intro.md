@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogLayout.astro
-title: A Basic Introduction to HTML
-description: HTML is the foundation of all websites. This guide will walk you through creating your first simple website using HTML.
+title: Hello my first blog?
+description: To start something is harder than do something usually..
 tags: ["code", "html"]
 time: 4
 featured: true
