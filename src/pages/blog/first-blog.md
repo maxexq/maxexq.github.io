@@ -2,11 +2,11 @@
 layout: ../../layouts/BlogLayout.astro
 title: Hello my first blog?
 description: To start something is harder than do something usually..
-tags: ["code", "html"]
+tags: ["live"]
 time: 4
 featured: true
-timestamp: 2024-12-18T02:39:03+00:00
-filename: html-intro
+timestamp: 2025-03-23T02:39:03+00:00
+filename: first-blog
 ---
 
 HTML (HyperText Markup Language) is the foundation of all websites. Even with modern frameworks and tools, understanding HTML basics remains essential for web development. This guide will walk you through creating your first simple website using HTML.

@@ -7,4 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  base: "/", // Since it's your main GitHub Pages domain
+  output: "static",
 });
