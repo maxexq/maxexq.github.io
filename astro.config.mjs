@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   base: "/", // Since it's your main GitHub Pages domain
-  site: "maxexq.github.io",
+  site: "https://maxexq.github.io",
 });
