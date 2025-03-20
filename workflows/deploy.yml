@@ -11,6 +11,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Create .nojekyll file
+        run: touch dist/.nojekyll
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
